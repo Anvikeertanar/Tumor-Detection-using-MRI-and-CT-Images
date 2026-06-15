@@ -83,31 +83,6 @@ The trained model successfully classified MRI and CT scan images with promising 
 | Model Type     | CNN                         |
 | Classification | Multi-Class Tumor Detection |
 
----
-
-## Visual Results
-
-### CNN Architecture
-
-(Add image here)
-
-### Training Accuracy
-
-(Add image here)
-
-### Training Loss
-
-(Add image here)
-
-### Confusion Matrix
-
-(Add image here)
-
-### Sample Predictions
-
-(Add image here)
-
----
 
 ## Key Learning Outcomes
 
